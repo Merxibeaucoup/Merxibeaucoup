@@ -10,4 +10,4 @@ I am a developer who loves to code. In my spare time I develop side projects for
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=merxibeaucoup&theme=tokyonight" alt="mystreak"/>
 
-[![Edgar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&username=merxibeaucoup)](https://github.com/merxibeaucoup/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&username=merxibeaucoup)](https://github.com/merxibeaucoup/github-readme-stats)
