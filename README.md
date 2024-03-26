@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,ts,html,css,sass,aws,postgres,nodejs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,ts,html,css,sass,aws,postgres,nodejs,angular)](https://skillicons.dev) 
 
 ![Edgar Briandt's GitHub stats](https://github-readme-stats.vercel.app/api?username=merxibeaucoup&show_icons=true&theme=radical)
 
